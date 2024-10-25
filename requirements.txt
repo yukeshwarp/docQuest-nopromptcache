@@ -1,0 +1,10 @@
+streamlit
+PyMuPDF
+requests
+Pillow
+python-dotenv
+tiktoken
+nltk
+openai
+numpy
+python-docx
